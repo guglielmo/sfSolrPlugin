@@ -1,7 +1,8 @@
-= Introduction =
-sfSolrPlugin allows a symfony project to integrate the Solr search framework.
-The plugin has been developed in a Propel ORM environment, for symfony 1.0.
-It should be rather neutral, but I do not think it supports the symfo
+= Notice =
+This is a fork of Carl Vondrick's original sfLucene plugin, for symfony 1.0.
+
+Developers interested in a plugin useable with successive versione os symofny (1.[2,3,4]),
+should go to https://github.com/rande/sfSolrPlugin, where another fork is maintained.
 
 
 = Requirements =
