@@ -1,8 +1,8 @@
 = Notice =
 This is a fork of Carl Vondrick's original sfLucene plugin, for symfony 1.0.
 
-Developers interested in a plugin useable with successive versione os symofny (1.[2,3,4]),
-should go to https://github.com/rande/sfSolrPlugin, where another fork is maintained.
+Developers interested in a plugin useable with successive versione of symofny (1.[2,3,4]),
+although, just for Doctrine, should go to https://github.com/rande/sfSolrPlugin, where another fork is maintained.
 
 
 = Requirements =
